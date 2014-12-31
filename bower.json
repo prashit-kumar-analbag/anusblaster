@@ -1,0 +1,17 @@
+{
+  "name": "anusblaster",
+  "version": "1.0.0",
+  "description": "Test package of PK Analbag.",
+  "main": "test.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
